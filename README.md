@@ -3,6 +3,7 @@
 ## Features
 
 - [Logos](./src/logos)
+- [Mockups](./src/mockups)
 
 ## Docs
 
